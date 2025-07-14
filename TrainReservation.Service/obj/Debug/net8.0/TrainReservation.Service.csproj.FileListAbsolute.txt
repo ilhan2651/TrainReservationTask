@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\obj\Debug\net8.0\TrainReservation.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\obj\Debug\net8.0\TrainReservation.Service.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\obj\Debug\net8.0\TrainReservation.Service.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\obj\Debug\net8.0\TrainReservation.Service.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\bin\Debug\net8.0\TrainReservation.Service.deps.json
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\bin\Debug\net8.0\TrainReservation.Service.dll
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\bin\Debug\net8.0\TrainReservation.Service.pdb
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\obj\Debug\net8.0\TrainReservation.Service.dll
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\obj\Debug\net8.0\refint\TrainReservation.Service.dll
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\obj\Debug\net8.0\TrainReservation.Service.pdb
+C:\Users\lenovo\source\repos\TrainReservation\TrainReservation.Service\obj\Debug\net8.0\ref\TrainReservation.Service.dll

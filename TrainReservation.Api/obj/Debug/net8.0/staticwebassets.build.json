@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XmyT3kw6r4GAoRTQT+h1769wxEjQem4Ssv9+d16Fx+Q=",
+  "Source": "TrainReservation.Api",
+  "BasePath": "_content/TrainReservation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

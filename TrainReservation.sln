@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainReservation.Api", "TrainReservation.Api\TrainReservation.Api.csproj", "{B4503D0D-556A-4CCC-8ABC-44B8F30D696D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainReservation.Service", "TrainReservation.Service\TrainReservation.Service.csproj", "{B1E36B23-8CB1-43B9-A65C-C37AEB59ADD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4503D0D-556A-4CCC-8ABC-44B8F30D696D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4503D0D-556A-4CCC-8ABC-44B8F30D696D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4503D0D-556A-4CCC-8ABC-44B8F30D696D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4503D0D-556A-4CCC-8ABC-44B8F30D696D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E36B23-8CB1-43B9-A65C-C37AEB59ADD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E36B23-8CB1-43B9-A65C-C37AEB59ADD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E36B23-8CB1-43B9-A65C-C37AEB59ADD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E36B23-8CB1-43B9-A65C-C37AEB59ADD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386A92B2-EEC9-4BE6-958F-000C7EAB8DE2}
+	EndGlobalSection
+EndGlobal
